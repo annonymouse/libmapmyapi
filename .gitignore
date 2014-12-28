@@ -3,3 +3,8 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+test/gtest/src
+test/gtest/tmp
+
+src/client
+lib/libmapmyapi.a
